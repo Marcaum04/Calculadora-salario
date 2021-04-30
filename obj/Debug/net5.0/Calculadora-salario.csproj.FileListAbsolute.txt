@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-salario\bin\Debug\net5.0\Calculadora-salario.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-salario\bin\Debug\net5.0\Calculadora-salario.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-salario\bin\Debug\net5.0\Calculadora-salario.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-salario\bin\Debug\net5.0\Calculadora-salario.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-salario\bin\Debug\net5.0\Calculadora-salario.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-salario\bin\Debug\net5.0\ref\Calculadora-salario.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-salario\bin\Debug\net5.0\Calculadora-salario.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-salario\obj\Debug\net5.0\Calculadora-salario.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-salario\obj\Debug\net5.0\Calculadora-salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-salario\obj\Debug\net5.0\Calculadora-salario.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-salario\obj\Debug\net5.0\Calculadora-salario.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-salario\obj\Debug\net5.0\Calculadora-salario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-salario\obj\Debug\net5.0\Calculadora-salario.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-salario\obj\Debug\net5.0\ref\Calculadora-salario.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-salario\obj\Debug\net5.0\Calculadora-salario.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-salario\obj\Debug\net5.0\Calculadora-salario.genruntimeconfig.cache
