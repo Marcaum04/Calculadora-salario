@@ -8,7 +8,7 @@ namespace Calculadora_salario
         {
             double salario, salarioAjustado, valorAumento;
 
-            Console.WriteLine("Calculadora de salário iniciado\n");
+            Console.WriteLine("Calculadora de salário iniciada\n");
 
             Console.Write("Digite seu salário atual: ");
             salario = double.Parse(Console.ReadLine());
